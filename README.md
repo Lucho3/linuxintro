@@ -1,2 +1,3 @@
 # linuxintro
-This repo is about introduction to linux
+This repo is about introduction to linux.
+
